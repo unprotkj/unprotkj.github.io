@@ -1,5 +1,4 @@
 # Dokumentasi Website Unpro TKJ Hotspot
-### Versi Bahasa Indonesia — Mudah Dipahami
 **Versi:** 1.0
 **Terakhir diperbarui:** Mei 2026
 **File utama:** `index.html`
